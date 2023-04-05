@@ -43,10 +43,10 @@ define('ADMIN_EMAIL','dangson28121998@gmail.com');
 #
 
 define('DBTYPE','mysql');
-define('DBHOST','10.2.5.8'); 
+define('DBHOST','son1998.mysql.database.azure.com'); 
 define('DBNAME','osticket');
-define('DBUSER','root');
-define('DBPASS','@WeSup9L$eCRagu');
+define('DBUSER','son1998');
+define('DBPASS','S28121998!');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');
