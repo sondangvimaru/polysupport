@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "2.7.1",
+        "snapappointments/bootstrap-select": "^1.13"
+    }
+}
